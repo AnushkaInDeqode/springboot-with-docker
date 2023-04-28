@@ -2,4 +2,4 @@
 
 ### This project contains two containerized microservices
 
-##### demo-app is connected with MySQL 
+##### docker-demo is connected with MySQL 
